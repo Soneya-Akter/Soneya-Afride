@@ -1,0 +1,39 @@
+*{
+    padding: 20;
+    margin: 20;
+}
+body{
+    background-color: chartreuse;
+}
+p {
+    background-color: rgb(255, 0, 51);
+    color: rgb(31, 6, 6);
+    font-style: oblique;
+    font-weight: 50px;
+}
+div{
+    background-color: darkmagenta;
+    color: darkorange;
+    font-style:normal;
+    font-weight: 50px;
+    font-size: 20px;
+
+}
+h1{
+    background-color: rgb(97, 17, 201);
+    color: rgb(14, 250, 238);
+    border-radius: 100%;
+    text-align: center;
+    border width: 20px;
+    font-style:italic;
+}
+h2{
+    background-color: magenta;
+    text-align: center;
+    font-style: italic;
+    border-width: 20px;
+
+}
+img{
+ padding-left: 500px;
+}
